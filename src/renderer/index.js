@@ -1,3 +1,5 @@
+import './styles.scss';
+
 import Vue from "vue"
 
 Vue.config.productionTip = false

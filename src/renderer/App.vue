@@ -1,6 +1,8 @@
 <template>
     <div>
-        <h1>Hello World</h1>
+        <div class="flex justify-center">
+            <h1 class="text-red-400 mt-10 text-2xl">Hello World</h1>
+        </div>
     </div>
 </template>
 
