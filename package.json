@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "devtron": "^1.4.0",
-    "electron": "8.2.0",
+    "electron": "13.6.6",
     "electron-builder": "^22.4.1",
     "electron-webpack": "^2.8.2",
     "electron-webpack-vue": "^2.4.0",
